@@ -20,7 +20,9 @@
 ### Database
 
 ### Network
-
+- [OSI 7계층](</Network/OSI 7계층/OSI 7계층.md>)
+- [AWS 기본 구성](</Network/AWS 기본 구성/AWS 기본 구성.md>)
+  
 ### Operating System
 
 ### Software Engineering
