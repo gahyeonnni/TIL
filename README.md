@@ -26,6 +26,7 @@
 ### Operating System
 
 ### Software Engineering
+- [헥사고날 아키텍쳐](</Software Engineering/Architecture/헥사고날 아키텍처/헥사고날 아키텍처.md>)
 
 ### Algorithm 
 
