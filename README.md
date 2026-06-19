@@ -9,7 +9,7 @@
 | 화 |       |        |  |   |  |  |  |  |  |
 | 수 |       | 🍚 17일 |      |  |  |  |  |  |  |
 | 목 |       |        | |  |  |  |  |  |  |
-| 금 |  |        |      |  |  |  |  |  |  |
+| 금 |  | 🍚 19일 |      |  |  |  |  |  |  |
 | 토 |       |        |      |       |  |  |  |  |  |
 | 일 | 🍚 14일  |        | |       |  |  |  |  |  |
 
@@ -24,6 +24,7 @@
 - [AWS 기본 구성](</Network/AWS 기본 구성/AWS 기본 구성.md>)
   
 ### Operating System
+- [동기화와 락](</Operating System/동기화와 락/동기화와 락.md>)
 
 ### Software Engineering
 - [헥사고날 아키텍쳐](</Software Engineering/Architecture/헥사고날 아키텍처/헥사고날 아키텍처.md>)
