@@ -22,6 +22,7 @@
 ### Network
 - [OSI 7계층](</Network/OSI 7계층/OSI 7계층.md>)
 - [AWS 기본 구성](</Network/AWS 기본 구성/AWS 기본 구성.md>)
+- [DNS](<Network/DNS/DNS.md>)
   
 ### Operating System
 - [동기화와 락](</Operating System/동기화와 락/동기화와 락.md>)
