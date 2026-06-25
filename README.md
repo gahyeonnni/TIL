@@ -48,4 +48,4 @@
 ### AI
 
 ### Spring
-- [private 메서드에 트랜잭션이 적용되지 않는 이유](<Spring/private 메서드에 트랜잭션이 적용되지 않는 이유/private 메서드에 Transactional이 적용될까.md>)
+- [private 메서드에 트랜잭션이 적용되지 않는 이유](</Spring/private 메서드에 트랜잭션이 적용되지 않는 이유/private 메서드에 Transactional이 적용될까.md>)
