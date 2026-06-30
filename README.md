@@ -48,4 +48,6 @@
 ### AI
 
 ### Spring
-- [private 메서드에 트랜잭션이 적용되지 않는 이유](</Spring/private 메서드에 트랜잭션이 적용되지 않는 이유/private 메서드에 Transactional이 적용될까.md>)
+### Spring
+- [private 메서드에 트랜잭션이 적용되지 않는 이유](/Spring/private%20메서드에%20트랜잭션이%20적용되지%20않는%20이유/private%20메서드에%20Transactional이%20적용될까.md)
+- [Spring AOP 개념 및 동작 원리](/Spring/Spring%20AOP%20개념%20및%20동작%20원리/Spring%20AOP%20개념%20및%20동작%20원리.md)
